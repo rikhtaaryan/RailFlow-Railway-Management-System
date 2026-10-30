@@ -1,0 +1,11 @@
+RailFlow_MultiStation_Full/
+  main.py
+  data.py
+  algorithms.py
+  helpers.py
+  train_menus.py
+  schedule_menus.py
+  data_analysis.py
+  requirements.txt
+  README.md
+  PROJECT_STRUCTURE.txt
